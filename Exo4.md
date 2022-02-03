@@ -202,4 +202,4 @@ docker push vanessakovalsky/my-healtcheck:v1
       initialDelaySeconds: 3
       periodSeconds: 3
 ```
-* Vérifier que le healtch continue à fonctionner;. (vous pouvez pas exemple renommer le fichier pour vérifier sur le conteneur lorsqu'il est en cours d'execution 
+* Vérifier que le health continue à fonctionner;. (vous pouvez pas exemple renommer le fichier pour vérifier sur le conteneur lorsqu'il est en cours d'execution 
